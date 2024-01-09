@@ -10,6 +10,13 @@ Este Repositório disponibilizo dicas e material de apoio para o uso de Git e Gi
 [Sobre o Markdown](https://github.com/MelPLens/Teste-de-Caixa-branca](https://kramdown.gettalong.org/documentation.html))
 
 
+## Contribuintes:
+Mel Plens Angelis
+
+## Licença
+The MIT License (MIT)
+
+## Copyright ©️ 2024 - Mel Plens
 
 
 
