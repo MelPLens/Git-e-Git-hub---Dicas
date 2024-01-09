@@ -5,9 +5,9 @@ GitHub é uma plataforma de hospedagem de código para controle de versão e col
 Este Repositório disponibilizo dicas e material de apoio para o uso de Git e Git hub. 
 
 <sub> <br> 
-    [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/hideraldus13)
-    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hideraldoluis/) 
-    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hideraldojunior/) 
+    [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/hideraldus13](https://github.com/MelPLens))
+    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/mel-plens-angelis-82261620b) 
+    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hideraldojunior/](https://www.instagram.com/codigosdamel/)) 
 </sub>
 
 [Documentação Oficial do Git hub](https://github.com/MelPLens/Teste-Unitario-Calculadora](https://docs.github.com/pt/get-started/quickstart/hello-world)https://docs.github.com/pt/get-started/quickstart/hello-world)
