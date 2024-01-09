@@ -1,7 +1,7 @@
 # Git e Git hub por Mel Plens
 GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. Permite que você e outras pessoas trabalhem em conjunto em projetos de qualquer lugar.
 
-Este Repositório proporcino dicas e material de apoio para o uso de Git e Git hub. 
+Este Repositório dispobilizo dicas e material de apoio para o uso de Git e Git hub. 
 
 [Documentação Oficial do Git hub](https://github.com/MelPLens/Teste-Unitario-Calculadora](https://docs.github.com/pt/get-started/quickstart/hello-world)https://docs.github.com/pt/get-started/quickstart/hello-world)
 
